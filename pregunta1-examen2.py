@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec  8 21:45:43 2020
-    
-@author: Alavaro Muruchi
+Created on Tue Dec  8 21:45:43 2020    
+@author: Alvaro Muruchi
 """
 
 import array
